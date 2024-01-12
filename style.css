@@ -1,0 +1,141 @@
+
+
+.container-footer{
+    height: 120px;
+    /* background-color: aliceblue; */
+}
+
+
+img{
+    height: 20px;
+}
+#storie{
+    margin-left: 80px;
+}
+#storie1{
+    margin-left: 50px;
+}
+#mess{
+    margin-left: 50px;
+}
+
+#icons1{
+    margin-left:0px;
+
+}
+
+header {
+    display: flex;
+    justify-content: space-around; /* Distribuye los elementos de manera uniforme a lo largo del eje horizontal */
+  }
+  
+  .icon-container {
+    margin: 12px;
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Centra los elementos a lo largo del eje horizontal */
+    text-align: center; /* Alinea el texto al centro */
+  }
+
+button{
+ /* display: flex; */
+    align-items: center;
+    /* flex-direction: row; */
+    margin-left: 20px;
+    /* background-color: rgb(132, 132, 132); */
+    border-radius: 120px;
+}
+
+.categrs{
+    margin-top:5px;
+}
+h,h5{
+    background-color: transparent;
+}
+.link{
+    /* height: 50px; */
+     border: 1px solid rgb(251, 248, 248);
+    /* padding: 10px; */
+    /* border: solid 1px   #fff; */
+    overflow-wrap: break-word;
+    border-left:solid 10px #fff;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px #6f6f6f;
+    /* background: rgb(255, 136, 136); */
+}
+
+.clip{
+height: 150px;
+width: 290px;
+}
+
+
+.lik{
+    color: blueviolet;
+}
+.perfil{
+/* margin-top: 10px; */
+
+    height: 40px;
+    width: 40px;
+    border-radius: 40px;
+
+}
+.cardImag{
+    /* flex-wrap: wrap; */
+justify-content: space-around;
+display: flex;
+
+}
+
+
+.cards{
+    width: 80px;
+    height: 110px;
+
+
+}
+.vePer{
+   background-color: transparent;
+}
+body{
+    margin-left:500px;
+
+    justify-content: center;
+    align-items: center;
+}
+*{
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.container{
+    border-radius: 10px;
+border:solid 15px #ffffff;
+    /* .container { */
+        /* display: flex; */
+        /* align-items: center; Centrado vertical */
+        /* height: 100vh; Altura completa de la ventana del navegador */
+      /* } */
+
+    /* background-color: aqua; */
+    height: 685px;
+    box-shadow: 0px 0px 10px #6f6f6f;
+width: 290px;
+    /* border-color: solid  rgb(0, 91, 171); */
+
+    /* display:; */
+    /* justify-content: center; */
+}
+
+.perfile{
+    /* margin-top: 10px; */
+height: 60px;
+    display: flex;
+    align-items: center;
+}
+
+.text{
+margin-top: 10px;
+    margin-left: 10px;
+}
